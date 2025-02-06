@@ -69,9 +69,6 @@ Las transformaciones en este caso son muy pobres, apenas apreciandose cualquier 
   <img src="./img/generada_2.png" alt="Generada_2" style="width:300px;">
 </a>
 
-<a href="./img/generada_2.png">
-  <img src="./img/generada_2.png" alt="Generada_2" style="width:300px;">
-</a>
 
 ## Conclusiones
 
