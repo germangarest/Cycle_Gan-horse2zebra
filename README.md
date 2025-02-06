@@ -1,6 +1,7 @@
 # Proyecto de investigación: CycleGAN con horse2zebra
 
 Este proyecto explora la implementación y aplicación de **CycleGAN** para la traducción de imágenes utilizando el dataset *horse2zebra*. El objetivo es transformar imágenes de caballos en cebras y viceversa, sin necesidad de contar con pares de imágenes emparejadas. También, se investigará sobre las CycleGan mostrando su contexto histórico, características, arquitectura y aplicaciones.
+**La documentación está incluida en el cuaderno de Colab junto con el código**.
 
 <a href="./img/portada.png">
   <img src="./img/portada.png" alt="Portada" style="width:400px;">
@@ -39,11 +40,11 @@ En este proyecto se ha implementado CycleGAN para transformar imágenes de cabal
 ├── img
 │   ├── portada.png
 │   └── generadas.png
-├── Investigacion_GAN_German_Garcia_Estevez.ipynb   # Cuaderno de Colab incluido en el repositorio con toda la investiggación
+├── Investigacion_GAN_German_Garcia_Estevez.ipynb   # Cuaderno de Colab incluido en el repositorio con la documentación
 └── README.md
 ```
 
-## Cuaderno de Colab
+## Cuaderno de colab
 
 [Abrir en Google Colab](https://colab.research.google.com/drive/1P0Z_nIeK0PnU-AejmH845JMGGAhtEN_8?usp=sharing)
 El cuaderno de Colab contiene el flujo completo del proyecto, incluyendo:
