@@ -57,10 +57,20 @@ El cuaderno de Colab contiene el flujo completo del proyecto, incluyendo:
 
 ## Resultados
 
-La imagen `generadas.png` en la carpeta `img` muestra un ejemplo de las transformaciones de varias imágenes de caballo a cebra (o viceversa) lograda mediante la arquitectura CycleGAN.
+Las imágenes `generada_x.png` que están la carpeta `img`, muestran un ejemplo de las transformaciones de varias imágenes de caballo a cebra (o viceversa) lograda mediante la arquitectura CycleGAN.
 
-<a href="./img/generadas.png">
-  <img src="./img/generadas.png" alt="Generadas" style="width:400px;">
+Las transformaciones en este caso son muy pobres, apenas apreciandose cualquier parecido a una cebra. Esto es debido al bajo número de épocas (5), pues la capacidad de cómputo de Google Colab no dejaba mucho más juego. Para obtener mejores resultados, se recomienda subir a 50 e incluso a 100 épocas, entre otros cambios para mejorar el procesamiento.
+
+<a href="./img/generada_1.png">
+  <img src="./img/generada_1.png" alt="Generada_1" style="width:400px;">
+</a>
+
+<a href="./img/generada_2.png">
+  <img src="./img/generada_2.png" alt="Generada_2" style="width:400px;">
+</a>
+
+<a href="./img/generada_2.png">
+  <img src="./img/generada_2.png" alt="Generada_2" style="width:400px;">
 </a>
 
 ## Conclusiones
