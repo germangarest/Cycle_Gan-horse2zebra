@@ -10,12 +10,12 @@ Este proyecto explora la implementación y aplicación de **CycleGAN** para la t
 ## Tabla de Contenidos
 
 - [Introducción](#introducción)
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Estructura del Repositorio](#estructura-del-repositorio)
+- [Descripción del proyecto](#descripción-del-proyecto)
+- [Estructura del repositorio](#estructura-del-repositorio)
 - [Cuaderno de Colab](#cuaderno-de-colab)
 - [Resultados](#resultados)
 - [Conclusiones](#conclusiones)
-- [Referencias Bibliográficas](#referencias-bibliográficas)
+- [Referencias bibliográficas](#referencias-bibliográficas)
 
 ## Introducción
 
