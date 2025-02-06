@@ -62,15 +62,15 @@ Las imágenes `generada_x.png` que están la carpeta `img`, muestran un ejemplo 
 Las transformaciones en este caso son muy pobres, apenas apreciandose cualquier parecido a una cebra. Esto es debido al bajo número de épocas (5), pues la capacidad de cómputo de Google Colab no dejaba mucho más juego. Para obtener mejores resultados, se recomienda subir a 50 e incluso a 100 épocas, entre otros cambios para mejorar el procesamiento.
 
 <a href="./img/generada_1.png">
-  <img src="./img/generada_1.png" alt="Generada_1" style="width:400px;">
+  <img src="./img/generada_1.png" alt="Generada_1" style="width:300px;">
 </a>
 
 <a href="./img/generada_2.png">
-  <img src="./img/generada_2.png" alt="Generada_2" style="width:400px;">
+  <img src="./img/generada_2.png" alt="Generada_2" style="width:300px;">
 </a>
 
 <a href="./img/generada_2.png">
-  <img src="./img/generada_2.png" alt="Generada_2" style="width:400px;">
+  <img src="./img/generada_2.png" alt="Generada_2" style="width:300px;">
 </a>
 
 ## Conclusiones
