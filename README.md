@@ -47,6 +47,7 @@ En este proyecto se ha implementado CycleGAN para transformar imágenes de cabal
 ## Cuaderno de colab
 
 [Abrir en Google Colab](https://colab.research.google.com/drive/1P0Z_nIeK0PnU-AejmH845JMGGAhtEN_8?usp=sharing)
+
 El cuaderno de Colab contiene el flujo completo del proyecto, incluyendo:
 
 - Preprocesamiento del dataset *horse2zebra*.
